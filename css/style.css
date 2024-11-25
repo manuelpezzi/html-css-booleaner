@@ -3,6 +3,10 @@
     background-color:#4EA0FF ;
     }
 .pattern img{
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
+}
+.title{
+    text-align:left;
+    font-size: 120px;
 }
