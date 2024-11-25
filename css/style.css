@@ -1,6 +1,8 @@
 .pattern{
     background-image: url(../img/pattern.png);
     background-color:#4EA0FF ;
+    height: 180px;
+
     }
 .pattern img{
     height: 300px;
@@ -8,5 +10,5 @@
 }
 .title{
     text-align:left;
-    font-size: 120px;
+    font-size: 80px;
 }
