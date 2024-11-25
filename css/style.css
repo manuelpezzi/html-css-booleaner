@@ -2,13 +2,23 @@
     background-image: url(../img/pattern.png);
     background-color:#4EA0FF ;
     height: 180px;
-
+width: 100%;
     }
 .pattern img{
-    height: 300px;
+    height: 280px;
     width: 300px;
 }
 .title{
+    height: 140px;
     text-align:left;
     font-size: 80px;
+}
+.sub-title{
+    height: 10px;
+  font-size: 50px;
+  color: #838383;
+}
+.date{
+    color: #838383;
+    font-size: 30px;
 }
