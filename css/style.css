@@ -38,10 +38,31 @@ height: 100%;
     width: 80%;
 }
 table{
-    border-collapse: collapse;
+    border-collapse:collapse;
     width: 80%;
 }
 thead{
     background-color:#20A9E5;
     color:#E6F6FC;
+    width: 80%;
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+tbody{
+    width: 80%;
+    border: 1px solid #ddd;
+  padding: 8px;
+}
+.line1{
+    background-color: #B1E5F2;
+}
+.lorem{
+    width: 50%;
+}
+.line3{
+    background-color: #B1E5F2;
+
+}
+th{
+    text-align: left;
 }
