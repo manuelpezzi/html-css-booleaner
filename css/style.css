@@ -84,8 +84,8 @@ h6{
     color: white;
     font-size: 25px;
     font-family: monospace;
-    font-weight: 700;
-    
+    font-weight: bold;
+    margin: 10px 0;
 }
 .title-photo2{
     background-image: url(../img/graph.jpg);
@@ -94,7 +94,7 @@ h6{
     background-size: contain;
     background-repeat: no-repeat;
     color: white;
-    font-weight: 700;
+    font-weight: bold;
     font-size: 25px;
     font-family:monospace;
 }
