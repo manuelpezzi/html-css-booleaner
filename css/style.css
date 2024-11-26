@@ -29,9 +29,11 @@ height: 100%;
 }
 .deskphoto1{
     font-size:10px;
+    font-weight: bold;
 }
 .deskphoto2{
     font-size: 10px;
+    font-weight: bold;
 }
 .text1{
     text-align: left;
